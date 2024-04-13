@@ -10,5 +10,4 @@ export default function Home() {
       <p><Link href="/about">About Us</Link></p>
     </main>
   );
-  
 }
